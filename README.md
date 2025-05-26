@@ -23,8 +23,6 @@
 
 👉 [**Download Zekolah v1.1.0**](https://drive.google.com/file/d/1sy8oonXRQ3Y7zWRIhF16PkedcWxJ5N2Z/view?usp=drive_link)
 
-> _(Ganti URL di atas dengan tautan unduhan sebenarnya)_
-
 📌 **Persyaratan Minimum:**
 
 - Sistem Operasi: **Windows 10 atau lebih baru**
@@ -38,8 +36,6 @@
 Untuk panduan penggunaan aplikasi Zekolah secara lengkap, silakan unduh buku pedoman dalam format PDF:
 
 📄 [**Download Buku Pedoman Zekolah (PDF)**](https://drive.google.com/file/d/1sy8oonXRQ3Y7zWRIhF16PkedcWxJ5N2Z/view?usp=sharing)
-
-> _(Silakan ganti dengan tautan Google Drive Anda)_
 
 ---
 
