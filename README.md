@@ -16,18 +16,31 @@
 
 ---
 
-## 📦 Informasi Instalasi
+## 📥 Unduh Aplikasi
 
-1. Unduh file `Zekolah.exe` dari distribusi resmi.
-2. Jalankan file `.exe` dengan klik dua kali.
-3. Tidak memerlukan koneksi internet untuk menjalankan aplikasi.
-4. Data disimpan secara lokal di komputer Anda.
+🖥️ Klik tautan di bawah ini untuk mengunduh Zekolah versi Windows (.exe):
+
+👉 [**Download Zekolah v1.0.0**](https://example.com/downloads/zekolah.exe)  
+> *(Ganti URL di atas dengan tautan unduhan sebenarnya)*
 
 ---
 
 ## 🔐 Keamanan
 
 Zekolah menggunakan sistem enkripsi internal untuk melindungi data pengguna. Akses terhadap informasi sensitif hanya dapat dilakukan oleh pengguna yang memiliki hak akses yang sah.
+
+---
+
+## 💖 Dukung Pengembangan
+
+Jika Anda merasa Zekolah bermanfaat, bantu kami agar terus berkembang dengan memberikan donasi:
+
+[![Donasi via Saweria](https://img.shields.io/badge/Donasi-Saweria-orange?style=for-the-badge&logo=buymeacoffee)](https://saweria.co/zhisystem)
+
+Atau melalui QRIS (untuk dompet digital lokal Indonesia):
+
+![QRIS](https://example.com/qris-image.png)  
+> *(Ganti URL dengan link gambar QRIS Anda jika ada)*
 
 ---
 
@@ -47,4 +60,3 @@ Zekolah dibuat dengan tujuan membantu sekolah-sekolah di seluruh Indonesia untuk
 Jika Anda tertarik untuk berkontribusi atau memiliki ide pengembangan, kami sangat terbuka untuk kolaborasi!
 
 ---
-
