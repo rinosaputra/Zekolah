@@ -1,6 +1,6 @@
 # 🌟 Zekolah - Sistem Manajemen Sekolah Gratis Berbasis Desktop 🌟
 
-**Zekolah** adalah aplikasi sistem manajemen sekolah berbasis desktop yang dirancang untuk mempermudah proses administrasi sekolah secara efisien dan modern — tanpa biaya. Aplikasi ini dapat berjalan secara **offline**, menjadikannya solusi ideal untuk sekolah-sekolah di daerah dengan konektivitas internet terbatas.
+**Zekolah** adalah aplikasi sistem manajemen sekolah berbasis desktop yang dirancang untuk mempermudah proses administrasi sekolah secara efisien dan modern — tanpa biaya. Aplikasi ini dapat berjalan secara **offline**, sehingga sangat cocok digunakan di lingkungan sekolah dengan koneksi internet terbatas.
 
 ---
 
@@ -9,9 +9,10 @@
 - ✅ **Manajemen Data Sekolah** — Kelola informasi sekolah secara terpusat dan mudah diakses.
 - 👨‍🏫 **Manajemen Pegawai** — Simpan dan kelola data staf dan guru.
 - 🧒 **Manajemen Murid & Rombel** — Organisasi data siswa dan rombongan belajar secara sistematis.
-- ✉️ **Manajemen Surat** — Catat surat masuk dan keluar dalam sistem digital.
-- 🔐 **Keamanan Data** — Data dienkripsi dan hanya bisa diakses oleh pihak yang berwenang.
-- 💻 **Offline Mode** — Aplikasi tetap bisa digunakan walau tanpa koneksi internet.
+- ✉️ **Manajemen Surat Keluar** — Catat surat keluar dalam sistem digital. — `Segera Hadir`
+- 🔐 **Keamanan Data** — Data terenkripsi dan hanya bisa diakses oleh pihak yang berwenang.
+- 💻 **Offline Mode Penuh** — Aplikasi dapat digunakan sepenuhnya **tanpa koneksi internet**.
+- 🛡️ **Privasi Tinggi** — Aplikasi **tidak terhubung ke internet sama sekali**, sehingga data **tidak pernah terpublikasi** dan tetap berada di dalam komputer lokal.
 - 🆓 **Gratis & Open Source** — Tidak dipungut biaya dan dapat dikembangkan bersama.
 
 ---
@@ -20,14 +21,31 @@
 
 🖥️ Klik tautan di bawah ini untuk mengunduh Zekolah versi Windows (.exe):
 
-👉 [**Download Zekolah v1.0.0**](https://example.com/downloads/zekolah.exe)  
-> *(Ganti URL di atas dengan tautan unduhan sebenarnya)*
+👉 [**Download Zekolah v1.1.0**](https://drive.google.com/file/d/1sy8oonXRQ3Y7zWRIhF16PkedcWxJ5N2Z/view?usp=drive_link)
+
+> _(Ganti URL di atas dengan tautan unduhan sebenarnya)_
+
+📌 **Persyaratan Minimum:**
+
+- Sistem Operasi: **Windows 10 atau lebih baru**
+- Arsitektur: 64-bit
+- Tidak perlu instalasi tambahan
 
 ---
 
-## 🔐 Keamanan
+## 📘 Buku Pedoman
 
-Zekolah menggunakan sistem enkripsi internal untuk melindungi data pengguna. Akses terhadap informasi sensitif hanya dapat dilakukan oleh pengguna yang memiliki hak akses yang sah.
+Untuk panduan penggunaan aplikasi Zekolah secara lengkap, silakan unduh buku pedoman dalam format PDF:
+
+📄 [**Download Buku Pedoman Zekolah (PDF)**](https://drive.google.com/file/d/1sy8oonXRQ3Y7zWRIhF16PkedcWxJ5N2Z/view?usp=sharing)
+
+> _(Silakan ganti dengan tautan Google Drive Anda)_
+
+---
+
+## 🔐 Keamanan dan Privasi
+
+- menyimpan seluruh data secara lokal di komputer pengguna, tanpa mengirimkan informasi apa pun ke server eksternal. Semua data penting, seperti data siswa, guru, dan dokumen, dienkripsi menggunakan standar industri agar hanya dapat diakses oleh pengguna yang memiliki izin. Dengan mode offline penuh, risiko kebocoran data akibat koneksi internet dapat diminimalkan. Pastikan untuk selalu melakukan backup data secara berkala agar data tetap aman jika terjadi kerusakan perangkat.
 
 ---
 
@@ -35,12 +53,7 @@ Zekolah menggunakan sistem enkripsi internal untuk melindungi data pengguna. Aks
 
 Jika Anda merasa Zekolah bermanfaat, bantu kami agar terus berkembang dengan memberikan donasi:
 
-[![Donasi via Saweria](https://img.shields.io/badge/Donasi-Saweria-orange?style=for-the-badge&logo=buymeacoffee)](https://saweria.co/zhisystem)
-
-Atau melalui QRIS (untuk dompet digital lokal Indonesia):
-
-![QRIS](https://example.com/qris-image.png)  
-> *(Ganti URL dengan link gambar QRIS Anda jika ada)*
+[![Donasi via Saweria](https://img.shields.io/badge/Donasi-Saweria-orange?style=for-the-badge&logo=buymeacoffee)](https://saweria.co/zhisys)
 
 ---
 
