@@ -13,7 +13,6 @@
 - 🔐 **Keamanan Data** — Data terenkripsi dan hanya bisa diakses oleh pihak yang berwenang.
 - 💻 **Offline Mode Penuh** — Aplikasi dapat digunakan sepenuhnya **tanpa koneksi internet**.
 - 🛡️ **Privasi Tinggi** — Aplikasi **tidak terhubung ke internet sama sekali**, sehingga data **tidak pernah terpublikasi** dan tetap berada di dalam komputer lokal.
-- 🆓 **Gratis & Open Source** — Tidak dipungut biaya dan dapat dikembangkan bersama.
 
 ---
 
@@ -64,7 +63,7 @@ Untuk informasi lebih lanjut, saran, atau laporan bug, silakan hubungi kami:
 
 ## 🙌 Terima Kasih
 
-Zekolah dibuat dengan tujuan membantu sekolah-sekolah di seluruh Indonesia untuk meningkatkan efisiensi administrasi tanpa biaya tambahan. Silakan sebarkan kepada sekolah lain yang membutuhkan.
+Zekolah dibuat dengan tujuan membantu sekolah-sekolah di seluruh Indonesia untuk meningkatkan efisiensi administrasi. Silakan sebarkan kepada sekolah lain yang membutuhkan.
 
 Jika Anda tertarik untuk berkontribusi atau memiliki ide pengembangan, kami sangat terbuka untuk kolaborasi!
 
