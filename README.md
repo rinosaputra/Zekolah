@@ -20,7 +20,7 @@
 
 🖥️ Klik tautan di bawah ini untuk mengunduh Zekolah versi Windows (.exe):
 
-👉 [**Download Zekolah v1.1.0**](https://drive.google.com/file/d/1sy8oonXRQ3Y7zWRIhF16PkedcWxJ5N2Z/view?usp=drive_link)
+👉 [**Download Zekolah v1.1.1**](https://drive.google.com/file/d/1CTUjHC--p0a4YnX7N1E8Jgd5iu6Iu9jy/view?usp=drive_link)
 
 📌 **Persyaratan Minimum:**
 
@@ -34,7 +34,7 @@
 
 Untuk panduan penggunaan aplikasi Zekolah secara lengkap, silakan unduh buku pedoman dalam format PDF:
 
-📄 [**Download Buku Pedoman Zekolah (PDF)**](https://drive.google.com/file/d/1b8qsOAt4XtGKo2KQ56Xse9upD_NMicce/view?usp=drive_link)
+📄 [**Download Buku Pedoman Zekolah (PDF)**](https://drive.google.com/file/d/1I4DAnm85GkVSRB3a4Vvc8nQjk5yrJUwA/view?usp=sharing)
 
 ---
 
